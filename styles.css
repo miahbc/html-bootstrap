@@ -1,0 +1,15 @@
+.navbar {
+    background-color: blue;
+    border-radius: 20px;
+  }
+
+.card-body {
+    background-color: aqua;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    /* margin: 20px; */
+}
+
+.card col-sm {
+    font-color: brown;
+}
